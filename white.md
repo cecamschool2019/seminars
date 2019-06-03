@@ -30,3 +30,5 @@ multiscale modeling of peptide self-assembly. He and his group have authored 26 
 reviewed publications. Prof. White enjoys running, snowboarding and graphics design.
 His artwork has appeared at the Visualiseringscenter C museum in Sweden.
 
+![picture of Andrew White](white.png)
+
