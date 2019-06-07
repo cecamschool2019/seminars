@@ -1,4 +1,4 @@
-- June 12, 14:00-15:00, Mark Tuckerman, New York University, NY, USA
+- June 12, 14:00-15:00, [Mark Tuckerman](tuckerman.md), New York University, NY, USA
 - June 18, 14:00-15:00, [Ali Hassanali](hassanali.md), ICTP, Trieste, Italy
 - June 19, 14:00-15:00, Angelo Rosa, SISSA, Trieste, Italy
 - June 20, 14:00-15:00, Gianluca Lattanzi, University of Trento, Trento, Italy
